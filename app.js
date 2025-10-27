@@ -20,7 +20,7 @@ const loginMsg = document.getElementById('loginMsg')
 const emailEl = document.getElementById('email')
 const passwordEl = document.getElementById('password')
 
-const founders = ['Founder A','Founder B','Founder C']
+const founders = ['Dhruv','Vishal','Shubham']
 
 // Populate founders select
 const paidBySelect = document.getElementById('paidBy')
